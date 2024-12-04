@@ -37,7 +37,8 @@ To run Nextswap locally, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-
+   git clone https://github.com/Denyteam/SwapNext_Deny.git
+   And next, Do use Command prompt / system teminal on windows OS or MacBook or Ubuntu. not VS-code terminal pannel
 2. **Install Dependencies:**
     ```bash
     npm install
